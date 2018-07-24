@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using issuesapi.Models;
+using Microsoft.Extensions.Logging;
 
 namespace issuesapi
 {
@@ -15,6 +16,7 @@ namespace issuesapi
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddCors();
+            services.AddSingleton(typeof(ILogger<>), typeof(Logger<>));
         }
 
         public void Configure(IApplicationBuilder app)
@@ -22,7 +24,7 @@ namespace issuesapi
             app.UseCors(builder =>
                         builder.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader()
         );
-
+            
             app.UseDefaultFiles();
             app.UseStaticFiles();
             app.UseMvc();

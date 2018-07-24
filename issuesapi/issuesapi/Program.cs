@@ -22,7 +22,8 @@ namespace issuesapi
             try
             {
                 logger.Debug("init main");
-                CreateWebHostBuilder(args).Build().Run();
+                BuildWebHost(args).Run();
+                //CreateWebHostBuilder(args).Build().Run();
             }
             catch (Exception ex)
             {

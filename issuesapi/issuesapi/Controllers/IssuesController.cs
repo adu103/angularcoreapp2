@@ -28,6 +28,7 @@ namespace issuesapi.Controllers
         [HttpGet]
         public ActionResult<List<Issues>> GetAll()
         {
+            //Added this logging to test Nlog
             _logger.LogInformation("This is a test of the GetAll method", null);
             _logger.LogDebug("This is a debug of the GetAll method", null);
             return _context.Issues.ToList();

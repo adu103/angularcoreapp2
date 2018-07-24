@@ -1,3 +1,4 @@
+/Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/bin/Debug/netcoreapp2.1/nlog.config
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
@@ -14,4 +15,3 @@
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/obj/Debug/netcoreapp2.1/issuesapi.test.AssemblyInfo.cs
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/obj/Debug/netcoreapp2.1/issuesapi.test.dll
 /Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/obj/Debug/netcoreapp2.1/issuesapi.test.pdb
-/Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi.test/bin/Debug/netcoreapp2.1/nlog.config
