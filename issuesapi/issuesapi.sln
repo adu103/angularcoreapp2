@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "issuesapi", "issuesapi\issuesapi.csproj", "{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "issuesapi.test", "issuesapi.test\issuesapi.test.csproj", "{2895EB9B-4E4C-4AE2-9632-94C6CAC646B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2895EB9B-4E4C-4AE2-9632-94C6CAC646B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2895EB9B-4E4C-4AE2-9632-94C6CAC646B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2895EB9B-4E4C-4AE2-9632-94C6CAC646B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2895EB9B-4E4C-4AE2-9632-94C6CAC646B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

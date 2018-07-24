@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F47B0432-D9D9-4DF7-A7D3-13C34C9DFC99}|Default">
+  <MonoDevelop.Ide.ItemProperties.issuesapi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="issuesapi/Controllers/IssuesController.cs">
+    <Files>
+      <File FileName="issuesapi/Controllers/IssuesController.cs" Line="31" Column="1" />
+      <File FileName="issuesapi.test/IssuesTest.cs" Line="29" Column="15" />
+      <File FileName="issuesapi/Models/Issues.cs" Line="1" Column="1" />
+      <File FileName="issuesapi/Models/IssueContext.cs" Line="1" Column="1" />
+      <File FileName="issuesapi/nlog.config" Line="1" Column="1" />
+      <File FileName="issuesapi/Program.cs" Line="26" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alexunger/Projects/angularcoreapp2/issuesapi/issuesapi/Controllers/IssuesController.cs" relfile="issuesapi/Controllers/IssuesController.cs" line="31" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
